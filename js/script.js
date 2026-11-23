@@ -8,10 +8,10 @@
    ========================================================= */
 
 const PORTFOLIO = {
-  email: "patelneha9092@gmail.com",
-  phone: "9651653319",          // shown on the Contact section; delete the text to hide it
+  email: "pacificdewdrop@gmail.com",
+  phone: "96********",          // shown on the Contact section; delete the text to hide it
   linkedin: "https://www.linkedin.com/in/neha-patel-454484359",
-  github: "",                   // TODO: add your GitHub profile URL, e.g. "https://github.com/your-username"
+  github: "https://github.com/patelneha9092-stack",                   // TODO: add your GitHub profile URL, e.g. "https://github.com/your-username"
 
   education: [
     {
