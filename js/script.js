@@ -61,7 +61,7 @@ const PORTFOLIO = {
       name: "Event Management System",
       description: "A user-friendly web platform that helps event organizers submit service requirements and helps registered job seekers find relevant opportunities.",
       tech: ["Python (Django)", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL database"],
-      contribution: "",                         // TODO: describe your contribution to this project
+      contribution: "Developed the platform with a responsive, easy-to-use interface, and managed and tested the system.",                         // TODO: describe your contribution to this project
       image: "assets/images/project-event.jpg", // TODO: add a screenshot with this name (a coloured block shows until then)
       liveUrl: "",                              // TODO: add live demo link
       repoUrl: ""                               // TODO: add GitHub repository link
@@ -69,8 +69,8 @@ const PORTFOLIO = {
     {
       name: "School Management System",
       description: "A tool to manage student records, attendance and fee collection, and to streamline communication between faculty and parents.",
-      tech: [],                                 // TODO: add the technologies you used
-      contribution: "",                         // TODO: describe your contribution to this project
+      tech: ["Python (Django)", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL database"],                                 // TODO: add the technologies you used
+      contribution: "Developed the platform with a responsive, easy-to-use interface, and managed and tested the system.",                         // TODO: describe your contribution to this project
       image: "assets/images/project-school.jpg", // TODO: add a screenshot with this name
       liveUrl: "",                              // TODO: add live demo link
       repoUrl: ""                               // TODO: add GitHub repository link
